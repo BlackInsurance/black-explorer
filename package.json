@@ -9,8 +9,8 @@
     "alpha based nodesdk sample app"
   ],
   "engines": {
-    "node": ">=6.9.5",
-    "npm": ">=3.10.10"
+    "node": "<=6.9.5",
+    "npm": "<=3.10.10"
   },
   "dependencies": {
     "body-parser": "^1.17.2",
